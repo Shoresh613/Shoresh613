@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying Machine Learning and AI at ITHS, a 2 year higher vocational education finising in 2025. 
-- ⚡ Fun fact: I have not only studied programming languages, but also for instance ancient Greek and Hebrew.
+- 🧠 I'm a software developer coding in Python, C, Java. Recently graduated from ITHS (2023–2025), where I studied AI & ML. 
+
+- 🛠️ Currently working at HiMode, developing scalable systems for big data aggregation and analysis, with a focus on automation and LLM integration.
+
+- 📊 Skilled in Python, SQL, data visualization, and machine learning pipelines, with practical experience from multiple real-world projects.
+
 <!--
 **Shoresh613/Shoresh613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
