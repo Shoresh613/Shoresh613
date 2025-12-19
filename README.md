@@ -6,6 +6,8 @@
 
 - 📊 Skilled in Python, SQL, data visualization, and machine learning pipelines.
 
+(archived repos are mainly repos for old coursework).
+
 <!--
 **Shoresh613/Shoresh613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
