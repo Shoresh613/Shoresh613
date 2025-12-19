@@ -4,7 +4,7 @@
 
 - 🛠️ Currently working at HiMode, developing scalable systems for big data aggregation and analysis, with a focus on automation and LLM integration.
 
-- 📊 Skilled in Python, SQL, data visualization, and machine learning pipelines, with practical experience from multiple real-world projects.
+- 📊 Skilled in Python, SQL, data visualization, and machine learning pipelines.
 
 <!--
 **Shoresh613/Shoresh613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
